@@ -3,4 +3,4 @@ Atividade revisão e nivelamento em AED-II, abordando recursividade, programaç�
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
+* Livia Bontempo Leite
